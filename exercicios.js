@@ -1,10 +1,10 @@
 //estrutura condicionais
-//const nomeVariavel = valor da variavel;
+//let nomeVariavel = valor da variavel;
 //if (condicao) {
        //console.log(o que acontece?)
 //}
 
-const dia = "sexta";
+let dia = "sexta";
 if (dia == "domingo") {
     console.log("Vou para praia.")    
 }
