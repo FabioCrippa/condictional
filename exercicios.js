@@ -15,16 +15,15 @@ else {
     console.log("Fico em casa.")
 }
 
-//outra estrutura condicional - atribuir as variaveis o tipo de dado
-//precisa achar o erro
-const idade = 0;
-const acesso = " ";
+//outra modo de usar condicional - atribuir as variaveis o tipo de dado
+let idade = 0;
+let acesso = " ";
+
 if (idade < 16) {
     acesso = "proibido";
-} 
-else if (idade >=16 && idade <=18) {
-    idade = 19;
-} 
+}  
 else {
     acesso = "permitido";
 }
+console.log(acesso)
+
