@@ -16,6 +16,7 @@ else {
 }
 
 //outra estrutura condicional - atribuir as variaveis o tipo de dado
+//precisa achar o erro
 const idade = 0;
 const acesso = " ";
 if (idade < 16) {
